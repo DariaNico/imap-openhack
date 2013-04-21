@@ -1,5 +1,6 @@
 # IMAP access to Gmail.
 # 
+#
 # Author: Benjamin Oakes <hello@benjaminoakes.com>
 require 'yaml'
 require 'net/imap'
